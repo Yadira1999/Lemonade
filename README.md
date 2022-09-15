@@ -2,7 +2,9 @@
 
 ```
 This is a Mini E-Commerce project with a frontend built in React & Redux and a backend built in Django API.
-Customers can login and order their favourite tea from the app.
+This is a mini e-commerce project that introduces a fresh and exciting way to sell lemonade! .
+It’s a great way to stay refreshed this summer by ordering refreshing lemonade with a single zesty 
+click! Saves you the commute time and expense by placing your orders from the comfort of your home!
 ```
 
 ## Live Demo
@@ -25,7 +27,7 @@ Check out [API LIVE DEMO](https://backend-yad.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-https://github.com/samsaddam/Lemonade.git
+https://github.com/Yadira1999/Lemonade.git
 
 ```
 
