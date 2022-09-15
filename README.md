@@ -11,7 +11,7 @@ Customers can login and order their favourite tea from the app.
 
 Check out [FRONTEND LIVE DEMO](https://lemonade-frontend.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://lemonade-backend.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-yad.herokuapp.com/) here!!
 
 ## Tech used
 
